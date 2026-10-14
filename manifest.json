@@ -1,0 +1,22 @@
+{
+  "name": "Stitch Brow & Lash_La Habana",
+  "short_name": "Stitch",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/stitch-brow-lash-la-habana/",
+  "scope": "/stitch-brow-lash-la-habana/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/stitch-brow-lash-la-habana/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/stitch-brow-lash-la-habana/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
